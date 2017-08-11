@@ -19,7 +19,7 @@ Build
 
 Prepare Database
 ----------------
-Run the mysqlFile.sql script to prepare database.
+Run the mysqlFile.sql script to prepare database. This fill will be found in project's root directory.
 
 Testing
 --------
