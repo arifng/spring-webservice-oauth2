@@ -3,7 +3,7 @@ Spring-Webservice-Oauth2
 
 Overview
 --------
-This is the simple implementation of oauth2 login mechanism using spring web mvc framework.
+This is the simple implementation of [oauth2](https://tools.ietf.org/html/rfc6749) login mechanism using spring web mvc framework.
 Uses technologies are -
 * Spring web mvc
 * Maven
