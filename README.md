@@ -27,9 +27,9 @@
 	- PUT: Update -> http://localhost:8080/spring2/employee?access_token={access_token}
 	    - Content-Type: application/xml
      	- Request body xml format (example)
-	    <Employee>
+	    `<Employee>
             <username>test_user</username>
             <password>updated_password</password>
             <firstname>Updated First Name</firstname>
-        </Employee>
+        </Employee>`
 	- DELETE: Delete -> http://localhost:8080/spring2/employee/{username}?access_token={access_token}
